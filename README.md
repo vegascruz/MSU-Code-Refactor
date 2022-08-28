@@ -24,9 +24,9 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 Mock-Up
+
 ![Challenge-1-HomePage](https://user-images.githubusercontent.com/95984881/187053391-8b917955-9101-4bdf-989e-ae41e3700506.png)
-
-
+![Challenge-1-HomePage 2](https://user-images.githubusercontent.com/95984881/187053425-c371dedf-38d6-46b3-b035-2a04d055a861.png)
 
 Technical Acceptance Criteria: 40%
 
