@@ -24,8 +24,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 Mock-Up
-![My Image](assets/images/Challenge-1-HomePage.png)
-![My Image](assets/images/Challenge-1-HomePage.2.png)
+
 
 
 Technical Acceptance Criteria: 40%
