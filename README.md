@@ -24,6 +24,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 Mock-Up
+![Challenge-1-HomePage](https://user-images.githubusercontent.com/95984881/187053391-8b917955-9101-4bdf-989e-ae41e3700506.png)
 
 
 
