@@ -1,3 +1,5 @@
+/* Not a whole lot changed here... let me know if by proper commenting, 
+you wanted me to explain each line of code*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -133,7 +135,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Before, this was below 'social media marketing... moved it up her for proper order */
 #search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -194,7 +196,7 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
-.footer h2 {
+/*Changed the footer header from an h2 to an h4 */
+.footer h4 {
     font-size: 20px;
 }
